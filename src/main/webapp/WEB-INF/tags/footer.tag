@@ -1,0 +1,1 @@
+<span id="footer">offline1 by <a href="http://www.highwise.com">Highwise</a></span>

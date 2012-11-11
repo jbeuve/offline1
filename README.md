@@ -1,4 +1,7 @@
 offline1
 ========
 
-PRojet test du mode offline
+Projet test du mode offline
+
+ HTML 5.
+ Limites
